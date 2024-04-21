@@ -53,5 +53,5 @@ public class App {
             System.out.println("Your final score: " + Win_score + " out of " + round + " rounds.");
             scanner.close();
         }
-    }
+}
 
